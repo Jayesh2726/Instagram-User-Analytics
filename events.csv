@@ -1,0 +1,1001 @@
+user_id,occurred_at,event_type,event_name,location,device,user_type
+10522,"02-05-2014 11:02",engagement,login,Japan,"dell inspiron notebook",3
+10522,"02-05-2014 11:02",engagement,home_page,Japan,"dell inspiron notebook",3
+10522,"02-05-2014 11:03",engagement,like_message,Japan,"dell inspiron notebook",3
+10522,"02-05-2014 11:04",engagement,view_inbox,Japan,"dell inspiron notebook",3
+10522,"02-05-2014 11:03",engagement,search_run,Japan,"dell inspiron notebook",3
+10522,"02-05-2014 11:03",engagement,search_run,Japan,"dell inspiron notebook",3
+10612,"01-05-2014 09:59",engagement,login,Netherlands,"iphone 5",1
+10612,"01-05-2014 10:00",engagement,like_message,Netherlands,"iphone 5",1
+10612,"01-05-2014 10:00",engagement,send_message,Netherlands,"iphone 5",1
+10612,"01-05-2014 10:01",engagement,home_page,Netherlands,"iphone 5",1
+10612,"01-05-2014 10:01",engagement,like_message,Netherlands,"iphone 5",1
+10612,"01-05-2014 10:02",engagement,home_page,Netherlands,"iphone 5",1
+10612,"01-05-2014 10:02",engagement,view_inbox,Netherlands,"iphone 5",1
+10612,"01-05-2014 10:03",engagement,like_message,Netherlands,"iphone 5",1
+10612,"01-05-2014 10:03",engagement,home_page,Netherlands,"iphone 5",1
+10612,"01-05-2014 10:04",engagement,send_message,Netherlands,"iphone 5",1
+10612,"01-05-2014 10:04",engagement,like_message,Netherlands,"iphone 5",1
+10612,"01-05-2014 10:05",engagement,send_message,Netherlands,"iphone 5",1
+10736,"09-05-2014 17:52",engagement,login,Austria,"iphone 4s",2
+10736,"09-05-2014 17:53",engagement,like_message,Austria,"iphone 4s",2
+10736,"09-05-2014 17:53",engagement,send_message,Austria,"iphone 4s",2
+10965,"15-05-2014 13:52",engagement,login,Finland,"windows surface",3
+10965,"15-05-2014 13:53",engagement,home_page,Finland,"windows surface",3
+11020,"08-05-2014 09:15",engagement,login,Japan,"macbook air",2
+11020,"08-05-2014 09:15",engagement,home_page,Japan,"macbook air",2
+11020,"08-05-2014 09:16",engagement,view_inbox,Japan,"macbook air",2
+11020,"08-05-2014 09:16",engagement,home_page,Japan,"macbook air",2
+11020,"08-05-2014 09:17",engagement,view_inbox,Japan,"macbook air",2
+11020,"08-05-2014 09:17",engagement,send_message,Japan,"macbook air",2
+11020,"08-05-2014 09:18",engagement,view_inbox,Japan,"macbook air",2
+11020,"08-05-2014 09:19",engagement,like_message,Japan,"macbook air",2
+11037,"01-05-2014 07:25",engagement,login,"United Kingdom","iphone 4s",1
+11037,"01-05-2014 07:25",engagement,like_message,"United Kingdom","iphone 4s",1
+11037,"01-05-2014 07:26",engagement,home_page,"United Kingdom","iphone 4s",1
+11037,"01-05-2014 07:26",engagement,like_message,"United Kingdom","iphone 4s",1
+11037,"01-05-2014 07:26",engagement,home_page,"United Kingdom","iphone 4s",1
+11037,"01-05-2014 07:27",engagement,view_inbox,"United Kingdom","iphone 4s",1
+11037,"01-05-2014 07:28",engagement,home_page,"United Kingdom","iphone 4s",1
+11037,"01-05-2014 07:28",engagement,like_message,"United Kingdom","iphone 4s",1
+11037,"01-05-2014 07:25",engagement,search_autocomplete,"United Kingdom","iphone 4s",1
+11040,"13-05-2014 07:23",engagement,login,Japan,"iphone 5s",2
+11040,"13-05-2014 07:24",engagement,like_message,Japan,"iphone 5s",2
+11040,"13-05-2014 07:24",engagement,home_page,Japan,"iphone 5s",2
+11040,"13-05-2014 07:25",engagement,like_message,Japan,"iphone 5s",2
+11040,"13-05-2014 07:26",engagement,view_inbox,Japan,"iphone 5s",2
+11040,"13-05-2014 07:26",engagement,home_page,Japan,"iphone 5s",2
+11040,"13-05-2014 07:27",engagement,send_message,Japan,"iphone 5s",2
+11040,"13-05-2014 07:27",engagement,like_message,Japan,"iphone 5s",2
+11040,"13-05-2014 07:28",engagement,home_page,Japan,"iphone 5s",2
+11040,"13-05-2014 07:28",engagement,like_message,Japan,"iphone 5s",2
+11133,"08-05-2014 11:13",engagement,login,India,"macbook pro",2
+11133,"08-05-2014 11:14",engagement,home_page,India,"macbook pro",2
+11133,"08-05-2014 11:14",engagement,like_message,India,"macbook pro",2
+11133,"08-05-2014 11:15",engagement,home_page,India,"macbook pro",2
+11133,"08-05-2014 11:15",engagement,send_message,India,"macbook pro",2
+11133,"10-05-2014 12:12",engagement,login,India,"kindle fire",2
+11133,"10-05-2014 12:12",engagement,home_page,India,"kindle fire",2
+11133,"10-05-2014 12:13",engagement,view_inbox,India,"kindle fire",2
+11194,"06-05-2014 16:17",engagement,login,"United States","ipad mini",2
+11194,"06-05-2014 16:18",engagement,home_page,"United States","ipad mini",2
+11194,"06-05-2014 16:19",engagement,view_inbox,"United States","ipad mini",2
+11194,"06-05-2014 16:19",engagement,home_page,"United States","ipad mini",2
+11194,"06-05-2014 16:20",engagement,send_message,"United States","ipad mini",2
+11194,"06-05-2014 16:20",engagement,like_message,"United States","ipad mini",2
+11194,"06-05-2014 16:18",engagement,search_autocomplete,"United States","ipad mini",2
+11212,"06-05-2014 07:29",engagement,login,France,"macbook pro",3
+11212,"06-05-2014 07:30",engagement,send_message,France,"macbook pro",3
+11212,"06-05-2014 07:31",engagement,home_page,France,"macbook pro",3
+11212,"06-05-2014 07:30",engagement,search_autocomplete,France,"macbook pro",3
+11212,"06-05-2014 07:30",engagement,search_autocomplete,France,"macbook pro",3
+11212,"06-05-2014 07:31",engagement,search_autocomplete,France,"macbook pro",3
+11212,"06-05-2014 13:41",engagement,login,France,"nexus 7",3
+11212,"06-05-2014 13:42",engagement,home_page,France,"nexus 7",3
+11212,"06-05-2014 13:42",engagement,like_message,France,"nexus 7",3
+11212,"06-05-2014 13:43",engagement,home_page,France,"nexus 7",3
+11212,"06-05-2014 13:42",engagement,search_autocomplete,France,"nexus 7",3
+11212,"06-05-2014 13:43",engagement,search_autocomplete,France,"nexus 7",3
+11212,"06-05-2014 13:43",engagement,search_autocomplete,France,"nexus 7",3
+11212,"06-05-2014 13:43",engagement,search_autocomplete,France,"nexus 7",3
+11215,"02-05-2014 15:00",engagement,login,Iran,"nexus 5",3
+11215,"02-05-2014 15:00",engagement,like_message,Iran,"nexus 5",3
+11227,"06-05-2014 11:12",engagement,login,Germany,"samsung galaxy s4",1
+11227,"06-05-2014 11:13",engagement,home_page,Germany,"samsung galaxy s4",1
+11227,"06-05-2014 11:14",engagement,like_message,Germany,"samsung galaxy s4",1
+11227,"06-05-2014 11:14",engagement,home_page,Germany,"samsung galaxy s4",1
+11227,"06-05-2014 11:15",engagement,view_inbox,Germany,"samsung galaxy s4",1
+11227,"06-05-2014 11:15",engagement,home_page,Germany,"samsung galaxy s4",1
+11227,"06-05-2014 11:16",engagement,like_message,Germany,"samsung galaxy s4",1
+11227,"06-05-2014 11:16",engagement,view_inbox,Germany,"samsung galaxy s4",1
+11231,"07-05-2014 18:21",engagement,login,"United States","lenovo thinkpad",1
+11231,"07-05-2014 18:21",engagement,like_message,"United States","lenovo thinkpad",1
+11231,"07-05-2014 18:22",engagement,home_page,"United States","lenovo thinkpad",1
+11231,"07-05-2014 18:22",engagement,send_message,"United States","lenovo thinkpad",1
+11231,"07-05-2014 18:23",engagement,home_page,"United States","lenovo thinkpad",1
+11231,"07-05-2014 18:23",engagement,send_message,"United States","lenovo thinkpad",1
+11231,"07-05-2014 18:24",engagement,home_page,"United States","lenovo thinkpad",1
+11231,"07-05-2014 18:25",engagement,send_message,"United States","lenovo thinkpad",1
+11231,"07-05-2014 18:25",engagement,home_page,"United States","lenovo thinkpad",1
+11231,"07-05-2014 18:26",engagement,view_inbox,"United States","lenovo thinkpad",1
+11231,"07-05-2014 18:26",engagement,home_page,"United States","lenovo thinkpad",1
+11231,"07-05-2014 18:27",engagement,send_message,"United States","lenovo thinkpad",1
+11231,"07-05-2014 18:27",engagement,home_page,"United States","lenovo thinkpad",1
+11231,"07-05-2014 18:28",engagement,like_message,"United States","lenovo thinkpad",1
+11240,"01-05-2014 16:22",engagement,login,Australia,"samsumg galaxy tablet",3
+11240,"01-05-2014 16:22",engagement,home_page,Australia,"samsumg galaxy tablet",3
+11240,"01-05-2014 16:23",engagement,send_message,Australia,"samsumg galaxy tablet",3
+11240,"01-05-2014 16:23",engagement,like_message,Australia,"samsumg galaxy tablet",3
+11240,"01-05-2014 16:24",engagement,home_page,Australia,"samsumg galaxy tablet",3
+11240,"01-05-2014 16:24",engagement,send_message,Australia,"samsumg galaxy tablet",3
+11240,"01-05-2014 16:24",engagement,like_message,Australia,"samsumg galaxy tablet",3
+11240,"01-05-2014 16:25",engagement,view_inbox,Australia,"samsumg galaxy tablet",3
+11240,"01-05-2014 16:22",engagement,search_autocomplete,Australia,"samsumg galaxy tablet",3
+11240,"01-05-2014 16:23",engagement,search_autocomplete,Australia,"samsumg galaxy tablet",3
+11240,"01-05-2014 16:23",engagement,search_autocomplete,Australia,"samsumg galaxy tablet",3
+11240,"01-05-2014 16:24",engagement,search_autocomplete,Australia,"samsumg galaxy tablet",3
+11261,"13-05-2014 16:04",engagement,login,Brazil,"acer aspire notebook",1
+11261,"13-05-2014 16:04",engagement,home_page,Brazil,"acer aspire notebook",1
+11261,"13-05-2014 16:05",engagement,view_inbox,Brazil,"acer aspire notebook",1
+11261,"13-05-2014 16:05",engagement,send_message,Brazil,"acer aspire notebook",1
+11261,"13-05-2014 16:06",engagement,home_page,Brazil,"acer aspire notebook",1
+11261,"13-05-2014 16:06",engagement,view_inbox,Brazil,"acer aspire notebook",1
+11261,"13-05-2014 16:07",engagement,home_page,Brazil,"acer aspire notebook",1
+11261,"13-05-2014 16:07",engagement,send_message,Brazil,"acer aspire notebook",1
+11284,"08-05-2014 17:02",engagement,login,"United States","macbook air",1
+11284,"08-05-2014 17:03",engagement,like_message,"United States","macbook air",1
+11284,"08-05-2014 17:03",engagement,view_inbox,"United States","macbook air",1
+11284,"08-05-2014 17:04",engagement,send_message,"United States","macbook air",1
+11284,"08-05-2014 17:05",engagement,view_inbox,"United States","macbook air",1
+11284,"08-05-2014 17:05",engagement,home_page,"United States","macbook air",1
+11284,"08-05-2014 17:06",engagement,view_inbox,"United States","macbook air",1
+11301,"09-05-2014 07:58",engagement,login,Thailand,"iphone 5",2
+11301,"09-05-2014 07:58",engagement,like_message,Thailand,"iphone 5",2
+11301,"09-05-2014 07:58",engagement,home_page,Thailand,"iphone 5",2
+11301,"09-05-2014 07:59",engagement,view_inbox,Thailand,"iphone 5",2
+11301,"09-05-2014 07:59",engagement,like_message,Thailand,"iphone 5",2
+11301,"09-05-2014 08:00",engagement,home_page,Thailand,"iphone 5",2
+11301,"09-05-2014 08:00",engagement,like_message,Thailand,"iphone 5",2
+11301,"09-05-2014 08:01",engagement,send_message,Thailand,"iphone 5",2
+11301,"09-05-2014 08:01",engagement,home_page,Thailand,"iphone 5",2
+11308,"07-05-2014 12:19",engagement,login,Austria,"dell inspiron notebook",2
+11308,"07-05-2014 12:19",engagement,home_page,Austria,"dell inspiron notebook",2
+11308,"07-05-2014 12:20",engagement,send_message,Austria,"dell inspiron notebook",2
+11308,"07-05-2014 12:21",engagement,like_message,Austria,"dell inspiron notebook",2
+11308,"07-05-2014 12:21",engagement,home_page,Austria,"dell inspiron notebook",2
+11308,"13-05-2014 09:19",engagement,login,Austria,"dell inspiron notebook",2
+11308,"13-05-2014 09:19",engagement,view_inbox,Austria,"dell inspiron notebook",2
+11308,"13-05-2014 09:20",engagement,home_page,Austria,"dell inspiron notebook",2
+11308,"13-05-2014 09:21",engagement,view_inbox,Austria,"dell inspiron notebook",2
+11308,"13-05-2014 09:21",engagement,home_page,Austria,"dell inspiron notebook",2
+11308,"13-05-2014 09:22",engagement,send_message,Austria,"dell inspiron notebook",2
+11364,"01-05-2014 11:59",engagement,login,France,"iphone 5s",1
+11364,"01-05-2014 12:00",engagement,send_message,France,"iphone 5s",1
+11364,"01-05-2014 12:00",engagement,like_message,France,"iphone 5s",1
+11364,"01-05-2014 12:01",engagement,home_page,France,"iphone 5s",1
+11376,"03-05-2014 11:13",engagement,login,India,"macbook pro",3
+11376,"03-05-2014 11:14",engagement,like_message,India,"macbook pro",3
+11382,"15-05-2014 08:19",engagement,login,India,"ipad mini",1
+11382,"15-05-2014 08:20",engagement,view_inbox,India,"ipad mini",1
+11382,"15-05-2014 08:20",engagement,home_page,India,"ipad mini",1
+11382,"15-05-2014 08:21",engagement,like_message,India,"ipad mini",1
+11382,"15-05-2014 08:21",engagement,send_message,India,"ipad mini",1
+11382,"15-05-2014 08:22",engagement,home_page,India,"ipad mini",1
+11382,"15-05-2014 08:22",engagement,like_message,India,"ipad mini",1
+11382,"15-05-2014 08:23",engagement,send_message,India,"ipad mini",1
+11382,"15-05-2014 08:23",engagement,home_page,India,"ipad mini",1
+11382,"15-05-2014 08:24",engagement,like_message,India,"ipad mini",1
+11382,"15-05-2014 08:24",engagement,home_page,India,"ipad mini",1
+11382,"15-05-2014 08:25",engagement,view_inbox,India,"ipad mini",1
+11382,"15-05-2014 08:25",engagement,home_page,India,"ipad mini",1
+11382,"15-05-2014 08:26",engagement,send_message,India,"ipad mini",1
+11382,"15-05-2014 08:26",engagement,view_inbox,India,"ipad mini",1
+11382,"15-05-2014 08:27",engagement,send_message,India,"ipad mini",1
+11382,"15-05-2014 08:27",engagement,home_page,India,"ipad mini",1
+11382,"15-05-2014 08:28",engagement,like_message,India,"ipad mini",1
+11382,"15-05-2014 08:28",engagement,send_message,India,"ipad mini",1
+11382,"15-05-2014 08:28",engagement,view_inbox,India,"ipad mini",1
+11382,"15-05-2014 08:19",engagement,search_autocomplete,India,"ipad mini",1
+11382,"15-05-2014 08:20",engagement,search_autocomplete,India,"ipad mini",1
+11382,"15-05-2014 08:20",engagement,search_autocomplete,India,"ipad mini",1
+11395,"05-05-2014 14:19",engagement,login,Germany,"samsung galaxy s4",1
+11395,"05-05-2014 14:20",engagement,view_inbox,Germany,"samsung galaxy s4",1
+11395,"05-05-2014 14:20",engagement,send_message,Germany,"samsung galaxy s4",1
+11395,"05-05-2014 14:21",engagement,home_page,Germany,"samsung galaxy s4",1
+11395,"05-05-2014 14:21",engagement,like_message,Germany,"samsung galaxy s4",1
+11395,"05-05-2014 14:22",engagement,view_inbox,Germany,"samsung galaxy s4",1
+11395,"05-05-2014 14:22",engagement,home_page,Germany,"samsung galaxy s4",1
+11395,"05-05-2014 14:23",engagement,send_message,Germany,"samsung galaxy s4",1
+11395,"05-05-2014 14:24",engagement,view_inbox,Germany,"samsung galaxy s4",1
+11395,"05-05-2014 14:24",engagement,like_message,Germany,"samsung galaxy s4",1
+11395,"05-05-2014 14:24",engagement,view_inbox,Germany,"samsung galaxy s4",1
+11395,"05-05-2014 14:25",engagement,home_page,Germany,"samsung galaxy s4",1
+11395,"05-05-2014 14:25",engagement,view_inbox,Germany,"samsung galaxy s4",1
+11395,"05-05-2014 14:26",engagement,home_page,Germany,"samsung galaxy s4",1
+11417,"03-05-2014 12:39",engagement,login,"United Kingdom","samsung galaxy s4",3
+11417,"03-05-2014 12:39",engagement,send_message,"United Kingdom","samsung galaxy s4",3
+11417,"03-05-2014 12:40",engagement,home_page,"United Kingdom","samsung galaxy s4",3
+11464,"01-05-2014 16:42",engagement,login,"United States","samsung galaxy s4",2
+11464,"01-05-2014 16:42",engagement,like_message,"United States","samsung galaxy s4",2
+11464,"01-05-2014 16:42",engagement,search_autocomplete,"United States","samsung galaxy s4",2
+11464,"01-05-2014 16:43",engagement,search_autocomplete,"United States","samsung galaxy s4",2
+11497,"01-05-2014 16:55",engagement,login,Russia,"acer aspire notebook",2
+11497,"01-05-2014 16:56",engagement,view_inbox,Russia,"acer aspire notebook",2
+11497,"01-05-2014 16:56",engagement,like_message,Russia,"acer aspire notebook",2
+11497,"01-05-2014 16:57",engagement,view_inbox,Russia,"acer aspire notebook",2
+11497,"01-05-2014 16:57",engagement,home_page,Russia,"acer aspire notebook",2
+11497,"01-05-2014 16:58",engagement,like_message,Russia,"acer aspire notebook",2
+11497,"01-05-2014 16:59",engagement,home_page,Russia,"acer aspire notebook",2
+11504,"20-05-2014 07:29",engagement,login,Japan,"macbook pro",3
+11504,"20-05-2014 07:30",engagement,send_message,Japan,"macbook pro",3
+11536,"05-05-2014 11:00",engagement,login,Taiwan,"macbook air",2
+11536,"05-05-2014 11:00",engagement,like_message,Taiwan,"macbook air",2
+11536,"05-05-2014 11:01",engagement,view_inbox,Taiwan,"macbook air",2
+11536,"05-05-2014 11:01",engagement,like_message,Taiwan,"macbook air",2
+11536,"05-05-2014 11:02",engagement,home_page,Taiwan,"macbook air",2
+11536,"05-05-2014 11:02",engagement,view_inbox,Taiwan,"macbook air",2
+11536,"05-05-2014 11:03",engagement,home_page,Taiwan,"macbook air",2
+11536,"05-05-2014 11:03",engagement,view_inbox,Taiwan,"macbook air",2
+11536,"05-05-2014 11:00",engagement,search_run,Taiwan,"macbook air",2
+11536,"05-05-2014 11:01",engagement,search_run,Taiwan,"macbook air",2
+11536,"05-05-2014 11:01",engagement,search_run,Taiwan,"macbook air",2
+11536,"05-05-2014 11:02",engagement,search_run,Taiwan,"macbook air",2
+11536,"05-05-2014 11:03",engagement,search_run,Taiwan,"macbook air",2
+11536,"05-05-2014 11:03",engagement,search_run,Taiwan,"macbook air",2
+11536,"05-05-2014 11:04",engagement,search_run,Taiwan,"macbook air",2
+11536,"05-05-2014 11:04",engagement,search_run,Taiwan,"macbook air",2
+11536,"05-05-2014 11:04",engagement,search_click_result_10,Taiwan,"macbook air",2
+11536,"05-05-2014 11:04",engagement,search_run,Taiwan,"macbook air",2
+11536,"05-05-2014 11:05",engagement,search_run,Taiwan,"macbook air",2
+11536,"06-05-2014 23:50",engagement,login,Taiwan,"asus chromebook",2
+11536,"06-05-2014 23:50",engagement,home_page,Taiwan,"asus chromebook",2
+11536,"06-05-2014 23:51",engagement,view_inbox,Taiwan,"asus chromebook",2
+11562,"09-05-2014 09:53",engagement,login,Russia,"nexus 5",2
+11562,"09-05-2014 09:54",engagement,like_message,Russia,"nexus 5",2
+11562,"09-05-2014 09:54",engagement,home_page,Russia,"nexus 5",2
+11562,"09-05-2014 09:54",engagement,like_message,Russia,"nexus 5",2
+11562,"14-05-2014 10:59",engagement,login,Russia,"asus chromebook",2
+11562,"14-05-2014 10:59",engagement,home_page,Russia,"asus chromebook",2
+11562,"14-05-2014 11:00",engagement,view_inbox,Russia,"asus chromebook",2
+11562,"14-05-2014 11:00",engagement,home_page,Russia,"asus chromebook",2
+11562,"14-05-2014 11:01",engagement,send_message,Russia,"asus chromebook",2
+11562,"14-05-2014 11:01",engagement,home_page,Russia,"asus chromebook",2
+11562,"14-05-2014 11:02",engagement,like_message,Russia,"asus chromebook",2
+11562,"14-05-2014 11:02",engagement,home_page,Russia,"asus chromebook",2
+11562,"14-05-2014 10:59",engagement,search_autocomplete,Russia,"asus chromebook",2
+11578,"06-05-2014 11:38",engagement,login,"United States","macbook air",2
+11578,"06-05-2014 11:39",engagement,home_page,"United States","macbook air",2
+11578,"06-05-2014 11:39",engagement,send_message,"United States","macbook air",2
+11578,"06-05-2014 11:40",engagement,home_page,"United States","macbook air",2
+11578,"06-05-2014 11:40",engagement,view_inbox,"United States","macbook air",2
+11578,"06-05-2014 11:39",engagement,search_run,"United States","macbook air",2
+11578,"06-05-2014 11:39",engagement,search_run,"United States","macbook air",2
+11579,"13-05-2014 16:35",engagement,login,"United States","macbook pro",3
+11579,"13-05-2014 16:36",engagement,like_message,"United States","macbook pro",3
+11579,"13-05-2014 16:36",engagement,view_inbox,"United States","macbook pro",3
+11579,"13-05-2014 16:37",engagement,home_page,"United States","macbook pro",3
+11579,"13-05-2014 16:37",engagement,send_message,"United States","macbook pro",3
+11592,"07-05-2014 13:31",engagement,login,Germany,"lenovo thinkpad",2
+11592,"07-05-2014 13:32",engagement,home_page,Germany,"lenovo thinkpad",2
+11592,"07-05-2014 13:32",engagement,send_message,Germany,"lenovo thinkpad",2
+11592,"07-05-2014 13:33",engagement,like_message,Germany,"lenovo thinkpad",2
+11592,"07-05-2014 13:33",engagement,send_message,Germany,"lenovo thinkpad",2
+11592,"07-05-2014 13:34",engagement,home_page,Germany,"lenovo thinkpad",2
+11592,"07-05-2014 13:34",engagement,send_message,Germany,"lenovo thinkpad",2
+11592,"07-05-2014 13:35",engagement,home_page,Germany,"lenovo thinkpad",2
+11592,"07-05-2014 13:35",engagement,view_inbox,Germany,"lenovo thinkpad",2
+11592,"07-05-2014 13:36",engagement,home_page,Germany,"lenovo thinkpad",2
+11599,"15-05-2014 12:41",engagement,login,Canada,"macbook pro",1
+11599,"15-05-2014 12:41",engagement,home_page,Canada,"macbook pro",1
+11599,"15-05-2014 12:42",engagement,send_message,Canada,"macbook pro",1
+11599,"15-05-2014 12:42",engagement,home_page,Canada,"macbook pro",1
+11599,"15-05-2014 12:43",engagement,send_message,Canada,"macbook pro",1
+11599,"15-05-2014 12:43",engagement,home_page,Canada,"macbook pro",1
+11599,"15-05-2014 12:44",engagement,like_message,Canada,"macbook pro",1
+11599,"15-05-2014 12:44",engagement,view_inbox,Canada,"macbook pro",1
+11599,"15-05-2014 12:41",engagement,search_autocomplete,Canada,"macbook pro",1
+11599,"15-05-2014 12:42",engagement,search_autocomplete,Canada,"macbook pro",1
+11602,"07-05-2014 15:02",engagement,login,"United States","nexus 7",1
+11602,"07-05-2014 15:03",engagement,like_message,"United States","nexus 7",1
+11602,"07-05-2014 15:03",engagement,view_inbox,"United States","nexus 7",1
+11602,"07-05-2014 15:03",engagement,send_message,"United States","nexus 7",1
+11602,"07-05-2014 15:04",engagement,home_page,"United States","nexus 7",1
+11602,"07-05-2014 15:04",engagement,send_message,"United States","nexus 7",1
+11602,"07-05-2014 15:05",engagement,like_message,"United States","nexus 7",1
+11602,"07-05-2014 15:05",engagement,view_inbox,"United States","nexus 7",1
+11602,"07-05-2014 15:06",engagement,like_message,"United States","nexus 7",1
+11625,"07-05-2014 13:59",engagement,login,"United Kingdom","ipad mini",1
+11625,"07-05-2014 13:59",engagement,like_message,"United Kingdom","ipad mini",1
+11625,"07-05-2014 14:00",engagement,view_inbox,"United Kingdom","ipad mini",1
+11625,"07-05-2014 14:00",engagement,like_message,"United Kingdom","ipad mini",1
+11625,"07-05-2014 14:01",engagement,home_page,"United Kingdom","ipad mini",1
+11625,"07-05-2014 14:01",engagement,view_inbox,"United Kingdom","ipad mini",1
+11625,"07-05-2014 14:02",engagement,home_page,"United Kingdom","ipad mini",1
+11625,"07-05-2014 14:02",engagement,like_message,"United Kingdom","ipad mini",1
+11625,"07-05-2014 14:03",engagement,view_inbox,"United Kingdom","ipad mini",1
+11625,"07-05-2014 14:03",engagement,send_message,"United Kingdom","ipad mini",1
+11625,"07-05-2014 14:04",engagement,home_page,"United Kingdom","ipad mini",1
+11626,"09-05-2014 10:11",engagement,login,Brazil,"nexus 5",1
+11626,"09-05-2014 10:11",engagement,home_page,Brazil,"nexus 5",1
+11626,"09-05-2014 10:11",engagement,like_message,Brazil,"nexus 5",1
+11626,"09-05-2014 10:12",engagement,home_page,Brazil,"nexus 5",1
+11626,"09-05-2014 10:13",engagement,send_message,Brazil,"nexus 5",1
+11626,"09-05-2014 10:13",engagement,home_page,Brazil,"nexus 5",1
+11626,"09-05-2014 10:14",engagement,send_message,Brazil,"nexus 5",1
+11626,"09-05-2014 10:14",engagement,home_page,Brazil,"nexus 5",1
+11626,"16-05-2014 15:36",engagement,login,Brazil,"nexus 5",1
+11626,"16-05-2014 15:36",engagement,home_page,Brazil,"nexus 5",1
+11626,"16-05-2014 15:37",engagement,view_inbox,Brazil,"nexus 5",1
+11626,"16-05-2014 15:37",engagement,home_page,Brazil,"nexus 5",1
+11626,"16-05-2014 15:38",engagement,view_inbox,Brazil,"nexus 5",1
+11626,"16-05-2014 15:38",engagement,home_page,Brazil,"nexus 5",1
+11626,"16-05-2014 15:39",engagement,view_inbox,Brazil,"nexus 5",1
+11626,"16-05-2014 15:39",engagement,home_page,Brazil,"nexus 5",1
+11626,"16-05-2014 15:40",engagement,like_message,Brazil,"nexus 5",1
+11626,"16-05-2014 15:40",engagement,home_page,Brazil,"nexus 5",1
+11626,"16-05-2014 15:40",engagement,view_inbox,Brazil,"nexus 5",1
+11626,"16-05-2014 15:41",engagement,send_message,Brazil,"nexus 5",1
+11626,"16-05-2014 15:41",engagement,home_page,Brazil,"nexus 5",1
+11635,"06-05-2014 12:12",engagement,login,Spain,"dell inspiron notebook",2
+11635,"06-05-2014 12:13",engagement,home_page,Spain,"dell inspiron notebook",2
+11635,"06-05-2014 12:13",engagement,send_message,Spain,"dell inspiron notebook",2
+11635,"06-05-2014 12:14",engagement,like_message,Spain,"dell inspiron notebook",2
+11635,"06-05-2014 12:14",engagement,home_page,Spain,"dell inspiron notebook",2
+11635,"06-05-2014 12:15",engagement,like_message,Spain,"dell inspiron notebook",2
+11670,"10-05-2014 12:08",engagement,login,Israel,"lenovo thinkpad",1
+11670,"10-05-2014 12:08",engagement,home_page,Israel,"lenovo thinkpad",1
+11670,"10-05-2014 12:09",engagement,send_message,Israel,"lenovo thinkpad",1
+11670,"10-05-2014 12:09",engagement,home_page,Israel,"lenovo thinkpad",1
+11670,"10-05-2014 12:10",engagement,view_inbox,Israel,"lenovo thinkpad",1
+11670,"10-05-2014 12:10",engagement,home_page,Israel,"lenovo thinkpad",1
+11673,"07-05-2014 00:19",engagement,login,Colombia,"acer aspire notebook",3
+11673,"07-05-2014 00:20",engagement,home_page,Colombia,"acer aspire notebook",3
+11673,"07-05-2014 00:20",engagement,view_inbox,Colombia,"acer aspire notebook",3
+11673,"07-05-2014 00:21",engagement,like_message,Colombia,"acer aspire notebook",3
+11673,"16-05-2014 18:29",engagement,login,Colombia,"macbook pro",3
+11673,"16-05-2014 18:30",engagement,home_page,Colombia,"macbook pro",3
+11673,"16-05-2014 18:30",engagement,like_message,Colombia,"macbook pro",3
+11673,"16-05-2014 18:31",engagement,home_page,Colombia,"macbook pro",3
+11673,"16-05-2014 18:30",engagement,search_autocomplete,Colombia,"macbook pro",3
+11680,"07-05-2014 13:34",engagement,login,Australia,"macbook pro",1
+11680,"07-05-2014 13:35",engagement,view_inbox,Australia,"macbook pro",1
+11680,"07-05-2014 13:35",engagement,home_page,Australia,"macbook pro",1
+11680,"07-05-2014 13:36",engagement,like_message,Australia,"macbook pro",1
+11680,"07-05-2014 13:36",engagement,home_page,Australia,"macbook pro",1
+11680,"07-05-2014 13:37",engagement,view_inbox,Australia,"macbook pro",1
+11680,"07-05-2014 13:37",engagement,like_message,Australia,"macbook pro",1
+11680,"07-05-2014 13:38",engagement,view_inbox,Australia,"macbook pro",1
+11680,"07-05-2014 13:38",engagement,home_page,Australia,"macbook pro",1
+11680,"07-05-2014 13:39",engagement,view_inbox,Australia,"macbook pro",1
+11680,"07-05-2014 13:40",engagement,home_page,Australia,"macbook pro",1
+11695,"02-05-2014 19:43",engagement,login,"United States","iphone 5s",3
+11695,"02-05-2014 19:43",engagement,home_page,"United States","iphone 5s",3
+11695,"02-05-2014 19:44",engagement,like_message,"United States","iphone 5s",3
+11695,"02-05-2014 19:44",engagement,home_page,"United States","iphone 5s",3
+11695,"02-05-2014 19:45",engagement,send_message,"United States","iphone 5s",3
+11695,"02-05-2014 19:45",engagement,like_message,"United States","iphone 5s",3
+11719,"08-05-2014 08:09",engagement,login,Iraq,"macbook air",3
+11719,"08-05-2014 08:10",engagement,like_message,Iraq,"macbook air",3
+11731,"06-05-2014 07:41",engagement,login,"United States","macbook pro",2
+11731,"06-05-2014 07:42",engagement,home_page,"United States","macbook pro",2
+11731,"06-05-2014 07:42",engagement,view_inbox,"United States","macbook pro",2
+11731,"06-05-2014 07:43",engagement,send_message,"United States","macbook pro",2
+11731,"06-05-2014 07:43",engagement,like_message,"United States","macbook pro",2
+11731,"06-05-2014 07:44",engagement,home_page,"United States","macbook pro",2
+11750,"01-05-2014 12:59",engagement,login,Indonesia,"macbook air",1
+11750,"01-05-2014 13:00",engagement,home_page,Indonesia,"macbook air",1
+11750,"01-05-2014 13:00",engagement,like_message,Indonesia,"macbook air",1
+11750,"01-05-2014 13:01",engagement,send_message,Indonesia,"macbook air",1
+11750,"01-05-2014 13:01",engagement,home_page,Indonesia,"macbook air",1
+11750,"01-05-2014 13:02",engagement,like_message,Indonesia,"macbook air",1
+11750,"01-05-2014 13:03",engagement,view_inbox,Indonesia,"macbook air",1
+11750,"01-05-2014 13:03",engagement,home_page,Indonesia,"macbook air",1
+11750,"01-05-2014 13:03",engagement,send_message,Indonesia,"macbook air",1
+11750,"01-05-2014 13:04",engagement,home_page,Indonesia,"macbook air",1
+11750,"01-05-2014 13:04",engagement,view_inbox,Indonesia,"macbook air",1
+11754,"14-05-2014 17:18",engagement,login,"United States","iphone 4s",1
+11754,"14-05-2014 17:19",engagement,send_message,"United States","iphone 4s",1
+11754,"14-05-2014 17:19",engagement,view_inbox,"United States","iphone 4s",1
+11754,"14-05-2014 17:20",engagement,home_page,"United States","iphone 4s",1
+11754,"14-05-2014 17:20",engagement,send_message,"United States","iphone 4s",1
+11754,"14-05-2014 17:21",engagement,home_page,"United States","iphone 4s",1
+11754,"14-05-2014 17:21",engagement,like_message,"United States","iphone 4s",1
+11754,"14-05-2014 17:22",engagement,home_page,"United States","iphone 4s",1
+11754,"14-05-2014 17:22",engagement,like_message,"United States","iphone 4s",1
+11756,"02-05-2014 10:39",engagement,login,"United Kingdom","iphone 5",1
+11756,"02-05-2014 10:39",engagement,view_inbox,"United Kingdom","iphone 5",1
+11756,"02-05-2014 10:40",engagement,home_page,"United Kingdom","iphone 5",1
+11756,"02-05-2014 10:40",engagement,send_message,"United Kingdom","iphone 5",1
+11756,"02-05-2014 10:41",engagement,home_page,"United Kingdom","iphone 5",1
+11756,"02-05-2014 10:41",engagement,send_message,"United Kingdom","iphone 5",1
+11756,"02-05-2014 10:42",engagement,home_page,"United Kingdom","iphone 5",1
+11756,"02-05-2014 10:42",engagement,like_message,"United Kingdom","iphone 5",1
+11768,"01-05-2014 08:03",signup_flow,complete_signup,France,"macbook pro",3
+11768,"01-05-2014 08:03",engagement,login,France,"macbook pro",3
+11768,"01-05-2014 08:03",engagement,view_inbox,France,"macbook pro",3
+11768,"01-05-2014 08:04",engagement,send_message,France,"macbook pro",3
+11768,"01-05-2014 08:04",engagement,like_message,France,"macbook pro",3
+11768,"01-05-2014 08:05",engagement,home_page,France,"macbook pro",3
+11768,"01-05-2014 08:05",engagement,like_message,France,"macbook pro",3
+11770,"01-05-2014 06:08",signup_flow,complete_signup,Japan,"iphone 5s",3
+11770,"01-05-2014 06:08",engagement,login,Japan,"iphone 5s",3
+11770,"01-05-2014 06:09",engagement,like_message,Japan,"iphone 5s",3
+11775,"01-05-2014 16:38",signup_flow,complete_signup,"United Kingdom","lenovo thinkpad",2
+11775,"01-05-2014 16:38",engagement,login,"United Kingdom","lenovo thinkpad",2
+11775,"01-05-2014 16:38",engagement,home_page,"United Kingdom","lenovo thinkpad",2
+11775,"01-05-2014 16:39",engagement,like_message,"United Kingdom","lenovo thinkpad",2
+11775,"01-05-2014 16:39",engagement,send_message,"United Kingdom","lenovo thinkpad",2
+11775,"01-05-2014 16:40",engagement,home_page,"United Kingdom","lenovo thinkpad",2
+11775,"01-05-2014 16:40",engagement,send_message,"United Kingdom","lenovo thinkpad",2
+11775,"01-05-2014 16:41",engagement,home_page,"United Kingdom","lenovo thinkpad",2
+11775,"01-05-2014 16:41",engagement,view_inbox,"United Kingdom","lenovo thinkpad",2
+11775,"09-05-2014 12:21",engagement,login,"United Kingdom","lenovo thinkpad",2
+11775,"09-05-2014 12:21",engagement,home_page,"United Kingdom","lenovo thinkpad",2
+11775,"09-05-2014 12:22",engagement,view_inbox,"United Kingdom","lenovo thinkpad",2
+11775,"09-05-2014 12:23",engagement,home_page,"United Kingdom","lenovo thinkpad",2
+11775,"09-05-2014 12:23",engagement,view_inbox,"United Kingdom","lenovo thinkpad",2
+11775,"09-05-2014 12:23",engagement,home_page,"United Kingdom","lenovo thinkpad",2
+11775,"09-05-2014 12:24",engagement,send_message,"United Kingdom","lenovo thinkpad",2
+11775,"09-05-2014 12:24",engagement,home_page,"United Kingdom","lenovo thinkpad",2
+11775,"09-05-2014 12:25",engagement,like_message,"United Kingdom","lenovo thinkpad",2
+11775,"09-05-2014 12:25",engagement,home_page,"United Kingdom","lenovo thinkpad",2
+11775,"09-05-2014 12:26",engagement,view_inbox,"United Kingdom","lenovo thinkpad",2
+11775,"09-05-2014 12:21",engagement,search_autocomplete,"United Kingdom","lenovo thinkpad",2
+11775,"09-05-2014 12:22",engagement,search_autocomplete,"United Kingdom","lenovo thinkpad",2
+11778,"01-05-2014 18:49",signup_flow,complete_signup,Indonesia,"iphone 4s",3
+11778,"01-05-2014 18:49",engagement,login,Indonesia,"iphone 4s",3
+11778,"01-05-2014 18:50",engagement,home_page,Indonesia,"iphone 4s",3
+11778,"01-05-2014 18:50",engagement,like_message,Indonesia,"iphone 4s",3
+11778,"01-05-2014 18:50",engagement,home_page,Indonesia,"iphone 4s",3
+11778,"01-05-2014 18:51",engagement,like_message,Indonesia,"iphone 4s",3
+11778,"01-05-2014 18:51",engagement,home_page,Indonesia,"iphone 4s",3
+11778,"01-05-2014 18:52",engagement,send_message,Indonesia,"iphone 4s",3
+11778,"01-05-2014 18:52",engagement,home_page,Indonesia,"iphone 4s",3
+11778,"01-05-2014 18:53",engagement,send_message,Indonesia,"iphone 4s",3
+11778,"01-05-2014 18:53",engagement,home_page,Indonesia,"iphone 4s",3
+11778,"01-05-2014 18:54",engagement,like_message,Indonesia,"iphone 4s",3
+11778,"01-05-2014 18:50",engagement,search_autocomplete,Indonesia,"iphone 4s",3
+11778,"01-05-2014 18:50",engagement,search_autocomplete,Indonesia,"iphone 4s",3
+11778,"28-05-2014 14:10",engagement,login,Indonesia,"macbook pro",3
+11778,"28-05-2014 14:11",engagement,home_page,Indonesia,"macbook pro",3
+11778,"28-05-2014 14:12",engagement,view_inbox,Indonesia,"macbook pro",3
+11778,"28-05-2014 14:12",engagement,like_message,Indonesia,"macbook pro",3
+11778,"09-06-2014 07:06",engagement,login,Indonesia,"macbook pro",3
+11778,"09-06-2014 07:06",engagement,view_inbox,Indonesia,"macbook pro",3
+11779,"01-05-2014 18:24",signup_flow,complete_signup,Germany,"samsung galaxy s4",1
+11779,"01-05-2014 18:24",engagement,login,Germany,"samsung galaxy s4",1
+11779,"01-05-2014 18:25",engagement,home_page,Germany,"samsung galaxy s4",1
+11779,"01-05-2014 18:25",engagement,send_message,Germany,"samsung galaxy s4",1
+11779,"01-05-2014 18:26",engagement,home_page,Germany,"samsung galaxy s4",1
+11779,"01-05-2014 18:27",engagement,view_inbox,Germany,"samsung galaxy s4",1
+11780,"01-05-2014 10:34",signup_flow,complete_signup,"United States","iphone 4s",3
+11780,"01-05-2014 10:34",engagement,login,"United States","iphone 4s",3
+11780,"01-05-2014 10:34",engagement,view_inbox,"United States","iphone 4s",3
+11780,"01-05-2014 10:35",engagement,home_page,"United States","iphone 4s",3
+11780,"01-05-2014 10:35",engagement,send_message,"United States","iphone 4s",3
+11785,"01-05-2014 07:20",signup_flow,complete_signup,"United States","nexus 5",2
+11785,"01-05-2014 07:20",engagement,login,"United States","nexus 5",2
+11785,"01-05-2014 07:21",engagement,home_page,"United States","nexus 5",2
+11785,"01-05-2014 07:21",engagement,view_inbox,"United States","nexus 5",2
+11785,"01-05-2014 07:22",engagement,like_message,"United States","nexus 5",2
+11785,"01-05-2014 23:53",engagement,login,"United States","macbook pro",2
+11785,"01-05-2014 23:54",engagement,like_message,"United States","macbook pro",2
+11785,"01-05-2014 23:54",engagement,home_page,"United States","macbook pro",2
+11785,"01-05-2014 23:55",engagement,view_inbox,"United States","macbook pro",2
+11785,"01-05-2014 23:55",engagement,send_message,"United States","macbook pro",2
+11785,"01-05-2014 23:56",engagement,view_inbox,"United States","macbook pro",2
+11787,"01-05-2014 18:23",signup_flow,complete_signup,"United States","macbook pro",1
+11787,"01-05-2014 18:23",engagement,login,"United States","macbook pro",1
+11787,"01-05-2014 18:23",engagement,like_message,"United States","macbook pro",1
+11787,"01-05-2014 18:24",engagement,home_page,"United States","macbook pro",1
+11787,"01-05-2014 18:24",engagement,like_message,"United States","macbook pro",1
+11787,"01-05-2014 18:25",engagement,home_page,"United States","macbook pro",1
+11787,"01-05-2014 18:25",engagement,view_inbox,"United States","macbook pro",1
+11787,"01-05-2014 18:26",engagement,home_page,"United States","macbook pro",1
+11787,"01-05-2014 18:26",engagement,like_message,"United States","macbook pro",1
+11787,"01-05-2014 18:26",engagement,home_page,"United States","macbook pro",1
+11787,"08-05-2014 13:58",engagement,login,"United States","macbook pro",1
+11787,"08-05-2014 13:59",engagement,home_page,"United States","macbook pro",1
+11787,"08-05-2014 14:00",engagement,send_message,"United States","macbook pro",1
+11787,"08-05-2014 14:00",engagement,view_inbox,"United States","macbook pro",1
+11787,"08-05-2014 14:00",engagement,home_page,"United States","macbook pro",1
+11787,"08-05-2014 14:01",engagement,view_inbox,"United States","macbook pro",1
+11787,"08-05-2014 14:02",engagement,send_message,"United States","macbook pro",1
+11787,"08-05-2014 14:02",engagement,home_page,"United States","macbook pro",1
+11787,"08-05-2014 14:02",engagement,like_message,"United States","macbook pro",1
+11787,"08-05-2014 14:03",engagement,send_message,"United States","macbook pro",1
+11787,"08-05-2014 14:03",engagement,like_message,"United States","macbook pro",1
+11787,"08-05-2014 14:04",engagement,home_page,"United States","macbook pro",1
+11787,"08-05-2014 14:04",engagement,send_message,"United States","macbook pro",1
+11787,"13-05-2014 15:59",engagement,login,"United States","macbook pro",1
+11787,"13-05-2014 15:59",engagement,like_message,"United States","macbook pro",1
+11787,"13-05-2014 16:00",engagement,home_page,"United States","macbook pro",1
+11787,"13-05-2014 16:00",engagement,like_message,"United States","macbook pro",1
+11787,"13-05-2014 16:01",engagement,home_page,"United States","macbook pro",1
+11787,"13-05-2014 16:01",engagement,like_message,"United States","macbook pro",1
+11787,"13-05-2014 16:02",engagement,home_page,"United States","macbook pro",1
+11787,"13-05-2014 16:02",engagement,like_message,"United States","macbook pro",1
+11787,"13-05-2014 16:03",engagement,home_page,"United States","macbook pro",1
+11787,"13-05-2014 15:59",engagement,search_autocomplete,"United States","macbook pro",1
+11787,"13-05-2014 16:00",engagement,search_autocomplete,"United States","macbook pro",1
+11787,"13-05-2014 16:00",engagement,search_autocomplete,"United States","macbook pro",1
+11791,"01-05-2014 15:50",signup_flow,complete_signup,Russia,"macbook air",2
+11791,"01-05-2014 15:50",engagement,login,Russia,"macbook air",2
+11791,"01-05-2014 15:51",engagement,like_message,Russia,"macbook air",2
+11791,"01-05-2014 15:51",engagement,home_page,Russia,"macbook air",2
+11791,"01-05-2014 15:52",engagement,send_message,Russia,"macbook air",2
+11791,"01-05-2014 15:52",engagement,view_inbox,Russia,"macbook air",2
+11791,"01-05-2014 15:53",engagement,like_message,Russia,"macbook air",2
+11791,"01-05-2014 15:53",engagement,home_page,Russia,"macbook air",2
+11791,"01-05-2014 15:53",engagement,send_message,Russia,"macbook air",2
+11793,"01-05-2014 09:29",signup_flow,complete_signup,"United States","lenovo thinkpad",1
+11793,"01-05-2014 09:29",engagement,login,"United States","lenovo thinkpad",1
+11793,"01-05-2014 09:30",engagement,home_page,"United States","lenovo thinkpad",1
+11793,"01-05-2014 09:30",engagement,send_message,"United States","lenovo thinkpad",1
+11793,"01-05-2014 09:31",engagement,home_page,"United States","lenovo thinkpad",1
+11793,"01-05-2014 09:31",engagement,like_message,"United States","lenovo thinkpad",1
+11793,"01-05-2014 09:32",engagement,home_page,"United States","lenovo thinkpad",1
+11793,"01-05-2014 09:33",engagement,view_inbox,"United States","lenovo thinkpad",1
+11793,"01-05-2014 09:33",engagement,home_page,"United States","lenovo thinkpad",1
+11793,"01-05-2014 09:34",engagement,like_message,"United States","lenovo thinkpad",1
+11795,"01-05-2014 03:44",signup_flow,complete_signup,Canada,"lenovo thinkpad",2
+11795,"01-05-2014 03:44",engagement,login,Canada,"lenovo thinkpad",2
+11795,"01-05-2014 03:44",engagement,home_page,Canada,"lenovo thinkpad",2
+11795,"01-05-2014 03:45",engagement,like_message,Canada,"lenovo thinkpad",2
+11795,"01-05-2014 03:45",engagement,send_message,Canada,"lenovo thinkpad",2
+11795,"01-05-2014 03:46",engagement,home_page,Canada,"lenovo thinkpad",2
+11795,"09-05-2014 23:39",engagement,login,Canada,"lenovo thinkpad",2
+11795,"09-05-2014 23:40",engagement,view_inbox,Canada,"lenovo thinkpad",2
+11795,"09-05-2014 23:40",engagement,home_page,Canada,"lenovo thinkpad",2
+11795,"09-05-2014 23:41",engagement,like_message,Canada,"lenovo thinkpad",2
+11795,"09-05-2014 23:41",engagement,home_page,Canada,"lenovo thinkpad",2
+11795,"09-05-2014 23:42",engagement,view_inbox,Canada,"lenovo thinkpad",2
+11795,"09-05-2014 23:42",engagement,home_page,Canada,"lenovo thinkpad",2
+11798,"01-05-2014 23:12",signup_flow,complete_signup,"United States","samsung galaxy s4",3
+11798,"01-05-2014 23:12",engagement,login,"United States","samsung galaxy s4",3
+11798,"01-05-2014 23:12",engagement,like_message,"United States","samsung galaxy s4",3
+11798,"01-05-2014 23:13",engagement,home_page,"United States","samsung galaxy s4",3
+11798,"01-05-2014 23:14",engagement,view_inbox,"United States","samsung galaxy s4",3
+11798,"01-05-2014 23:14",engagement,send_message,"United States","samsung galaxy s4",3
+11799,"01-05-2014 12:07",signup_flow,complete_signup,Germany,"samsung galaxy note",2
+11799,"01-05-2014 12:07",engagement,login,Germany,"samsung galaxy note",2
+11799,"01-05-2014 12:07",engagement,home_page,Germany,"samsung galaxy note",2
+11799,"01-05-2014 12:08",engagement,like_message,Germany,"samsung galaxy note",2
+11799,"01-05-2014 12:08",engagement,send_message,Germany,"samsung galaxy note",2
+11799,"01-05-2014 12:09",engagement,view_inbox,Germany,"samsung galaxy note",2
+11799,"01-05-2014 12:09",engagement,home_page,Germany,"samsung galaxy note",2
+11799,"01-05-2014 12:10",engagement,view_inbox,Germany,"samsung galaxy note",2
+11799,"01-05-2014 12:07",engagement,search_autocomplete,Germany,"samsung galaxy note",2
+11799,"20-05-2014 07:56",engagement,login,Germany,"macbook pro",2
+11799,"20-05-2014 07:56",engagement,home_page,Germany,"macbook pro",2
+11799,"20-05-2014 07:56",engagement,view_inbox,Germany,"macbook pro",2
+11799,"20-05-2014 07:57",engagement,home_page,Germany,"macbook pro",2
+11799,"20-05-2014 07:58",engagement,view_inbox,Germany,"macbook pro",2
+11801,"01-05-2014 10:15",signup_flow,complete_signup,Korea,"samsung galaxy s4",1
+11801,"01-05-2014 10:15",engagement,login,Korea,"samsung galaxy s4",1
+11801,"01-05-2014 10:16",engagement,home_page,Korea,"samsung galaxy s4",1
+11801,"01-05-2014 10:16",engagement,view_inbox,Korea,"samsung galaxy s4",1
+11801,"01-05-2014 10:16",engagement,send_message,Korea,"samsung galaxy s4",1
+11801,"01-05-2014 10:17",engagement,home_page,Korea,"samsung galaxy s4",1
+11801,"01-05-2014 10:18",engagement,view_inbox,Korea,"samsung galaxy s4",1
+11801,"01-05-2014 10:18",engagement,home_page,Korea,"samsung galaxy s4",1
+11801,"01-05-2014 10:19",engagement,view_inbox,Korea,"samsung galaxy s4",1
+11801,"01-05-2014 10:19",engagement,like_message,Korea,"samsung galaxy s4",1
+11801,"01-05-2014 10:20",engagement,home_page,Korea,"samsung galaxy s4",1
+11801,"01-05-2014 10:16",engagement,search_autocomplete,Korea,"samsung galaxy s4",1
+11804,"01-05-2014 08:09",signup_flow,complete_signup,"United States","mac mini",3
+11804,"01-05-2014 08:09",engagement,login,"United States","mac mini",3
+11804,"01-05-2014 08:10",engagement,home_page,"United States","mac mini",3
+11804,"01-05-2014 08:10",engagement,view_inbox,"United States","mac mini",3
+11806,"01-05-2014 12:28",signup_flow,complete_signup,"United Arab Emirates","iphone 5",1
+11806,"01-05-2014 12:28",engagement,login,"United Arab Emirates","iphone 5",1
+11806,"01-05-2014 12:28",engagement,home_page,"United Arab Emirates","iphone 5",1
+11806,"01-05-2014 12:29",engagement,view_inbox,"United Arab Emirates","iphone 5",1
+11806,"01-05-2014 12:29",engagement,home_page,"United Arab Emirates","iphone 5",1
+11806,"01-05-2014 12:30",engagement,view_inbox,"United Arab Emirates","iphone 5",1
+11806,"01-05-2014 12:30",engagement,home_page,"United Arab Emirates","iphone 5",1
+11806,"01-05-2014 12:28",engagement,search_run,"United Arab Emirates","iphone 5",1
+11806,"01-05-2014 12:29",engagement,search_run,"United Arab Emirates","iphone 5",1
+11809,"01-05-2014 15:40",signup_flow,complete_signup,France,"dell inspiron notebook",1
+11809,"01-05-2014 15:40",engagement,login,France,"dell inspiron notebook",1
+11809,"01-05-2014 15:41",engagement,home_page,France,"dell inspiron notebook",1
+11809,"01-05-2014 15:41",engagement,like_message,France,"dell inspiron notebook",1
+11809,"01-05-2014 15:42",engagement,view_inbox,France,"dell inspiron notebook",1
+11809,"01-05-2014 15:42",engagement,home_page,France,"dell inspiron notebook",1
+11809,"01-05-2014 15:43",engagement,like_message,France,"dell inspiron notebook",1
+11811,"01-05-2014 13:58",signup_flow,complete_signup,Belgium,"hp pavilion desktop",2
+11811,"01-05-2014 13:58",engagement,login,Belgium,"hp pavilion desktop",2
+11811,"01-05-2014 13:58",engagement,home_page,Belgium,"hp pavilion desktop",2
+11811,"01-05-2014 13:59",engagement,view_inbox,Belgium,"hp pavilion desktop",2
+11811,"01-05-2014 13:59",engagement,home_page,Belgium,"hp pavilion desktop",2
+11811,"01-05-2014 14:00",engagement,like_message,Belgium,"hp pavilion desktop",2
+11811,"01-05-2014 14:00",engagement,home_page,Belgium,"hp pavilion desktop",2
+11811,"01-05-2014 14:00",engagement,like_message,Belgium,"hp pavilion desktop",2
+11811,"01-05-2014 14:01",engagement,view_inbox,Belgium,"hp pavilion desktop",2
+11813,"01-05-2014 13:49",signup_flow,complete_signup,"Saudi Arabia","nexus 7",3
+11813,"01-05-2014 13:49",engagement,login,"Saudi Arabia","nexus 7",3
+11813,"01-05-2014 13:49",engagement,view_inbox,"Saudi Arabia","nexus 7",3
+11816,"01-05-2014 13:50",signup_flow,complete_signup,Sweden,"macbook pro",3
+11816,"01-05-2014 13:50",engagement,login,Sweden,"macbook pro",3
+11816,"01-05-2014 13:51",engagement,send_message,Sweden,"macbook pro",3
+11816,"01-05-2014 13:51",engagement,home_page,Sweden,"macbook pro",3
+11816,"01-05-2014 13:51",engagement,search_run,Sweden,"macbook pro",3
+11816,"01-05-2014 13:51",engagement,search_run,Sweden,"macbook pro",3
+11816,"01-05-2014 13:51",engagement,search_autocomplete,Sweden,"macbook pro",3
+11818,"01-05-2014 19:18",signup_flow,complete_signup,Australia,"asus chromebook",3
+11818,"01-05-2014 19:18",engagement,login,Australia,"asus chromebook",3
+11818,"01-05-2014 19:18",engagement,view_inbox,Australia,"asus chromebook",3
+11818,"01-05-2014 19:19",engagement,like_message,Australia,"asus chromebook",3
+11820,"01-05-2014 19:56",signup_flow,complete_signup,"United States","iphone 5",2
+11820,"01-05-2014 19:56",engagement,login,"United States","iphone 5",2
+11820,"01-05-2014 19:57",engagement,home_page,"United States","iphone 5",2
+11820,"01-05-2014 19:58",engagement,send_message,"United States","iphone 5",2
+11820,"01-05-2014 19:58",engagement,home_page,"United States","iphone 5",2
+11820,"01-05-2014 19:59",engagement,send_message,"United States","iphone 5",2
+11823,"01-05-2014 19:00",signup_flow,complete_signup,"United States","ipad air",2
+11823,"01-05-2014 19:00",engagement,login,"United States","ipad air",2
+11823,"01-05-2014 19:01",engagement,view_inbox,"United States","ipad air",2
+11823,"01-05-2014 19:01",engagement,home_page,"United States","ipad air",2
+11823,"01-05-2014 19:02",engagement,send_message,"United States","ipad air",2
+11823,"01-05-2014 19:02",engagement,view_inbox,"United States","ipad air",2
+11823,"01-05-2014 19:03",engagement,home_page,"United States","ipad air",2
+11823,"01-05-2014 19:03",engagement,view_inbox,"United States","ipad air",2
+11823,"01-05-2014 19:01",engagement,search_autocomplete,"United States","ipad air",2
+11823,"01-05-2014 19:01",engagement,search_autocomplete,"United States","ipad air",2
+11824,"01-05-2014 17:54",signup_flow,complete_signup,Poland,"macbook pro",1
+11824,"01-05-2014 17:54",engagement,login,Poland,"macbook pro",1
+11824,"01-05-2014 17:54",engagement,home_page,Poland,"macbook pro",1
+11824,"01-05-2014 17:55",engagement,like_message,Poland,"macbook pro",1
+11824,"01-05-2014 17:55",engagement,view_inbox,Poland,"macbook pro",1
+11824,"01-05-2014 17:56",engagement,like_message,Poland,"macbook pro",1
+11824,"01-05-2014 17:56",engagement,home_page,Poland,"macbook pro",1
+11824,"01-05-2014 17:57",engagement,send_message,Poland,"macbook pro",1
+11824,"01-05-2014 17:57",engagement,home_page,Poland,"macbook pro",1
+11824,"01-05-2014 17:58",engagement,view_inbox,Poland,"macbook pro",1
+11824,"01-05-2014 17:54",engagement,search_autocomplete,Poland,"macbook pro",1
+11825,"01-05-2014 19:25",signup_flow,complete_signup,Mexico,"samsung galaxy s4",1
+11825,"01-05-2014 19:25",engagement,login,Mexico,"samsung galaxy s4",1
+11825,"01-05-2014 19:25",engagement,home_page,Mexico,"samsung galaxy s4",1
+11825,"01-05-2014 19:26",engagement,like_message,Mexico,"samsung galaxy s4",1
+11825,"01-05-2014 19:26",engagement,view_inbox,Mexico,"samsung galaxy s4",1
+11825,"01-05-2014 19:27",engagement,home_page,Mexico,"samsung galaxy s4",1
+11826,"01-05-2014 12:48",signup_flow,complete_signup,Israel,"iphone 5",3
+11826,"01-05-2014 12:48",engagement,login,Israel,"iphone 5",3
+11826,"01-05-2014 12:48",engagement,view_inbox,Israel,"iphone 5",3
+11828,"01-05-2014 15:42",signup_flow,complete_signup,Italy,"nexus 5",1
+11828,"01-05-2014 15:42",engagement,login,Italy,"nexus 5",1
+11828,"01-05-2014 15:43",engagement,home_page,Italy,"nexus 5",1
+11828,"01-05-2014 15:43",engagement,like_message,Italy,"nexus 5",1
+11828,"01-05-2014 15:44",engagement,home_page,Italy,"nexus 5",1
+11828,"01-05-2014 15:44",engagement,like_message,Italy,"nexus 5",1
+11828,"01-05-2014 15:44",engagement,view_inbox,Italy,"nexus 5",1
+11828,"01-05-2014 15:45",engagement,like_message,Italy,"nexus 5",1
+11828,"01-05-2014 15:45",engagement,home_page,Italy,"nexus 5",1
+11828,"01-05-2014 15:46",engagement,like_message,Italy,"nexus 5",1
+11828,"01-05-2014 15:47",engagement,view_inbox,Italy,"nexus 5",1
+11828,"01-05-2014 15:47",engagement,home_page,Italy,"nexus 5",1
+11829,"01-05-2014 18:37",signup_flow,complete_signup,Mexico,"nexus 7",2
+11829,"01-05-2014 18:37",engagement,login,Mexico,"nexus 7",2
+11829,"01-05-2014 18:37",engagement,send_message,Mexico,"nexus 7",2
+11829,"01-05-2014 18:38",engagement,view_inbox,Mexico,"nexus 7",2
+11832,"01-05-2014 13:17",signup_flow,complete_signup,Japan,"macbook pro",2
+11832,"01-05-2014 13:17",engagement,login,Japan,"macbook pro",2
+11832,"01-05-2014 13:18",engagement,like_message,Japan,"macbook pro",2
+11832,"01-05-2014 13:18",engagement,send_message,Japan,"macbook pro",2
+11832,"01-05-2014 13:19",engagement,home_page,Japan,"macbook pro",2
+11832,"01-05-2014 13:19",engagement,like_message,Japan,"macbook pro",2
+11832,"01-05-2014 13:20",engagement,view_inbox,Japan,"macbook pro",2
+11832,"01-05-2014 13:20",engagement,home_page,Japan,"macbook pro",2
+11832,"01-05-2014 13:21",engagement,view_inbox,Japan,"macbook pro",2
+11832,"01-05-2014 13:21",engagement,home_page,Japan,"macbook pro",2
+11832,"01-05-2014 13:18",engagement,search_autocomplete,Japan,"macbook pro",2
+11832,"06-05-2014 14:37",engagement,login,Japan,"macbook pro",2
+11832,"06-05-2014 14:37",engagement,like_message,Japan,"macbook pro",2
+11832,"06-05-2014 14:38",engagement,home_page,Japan,"macbook pro",2
+11832,"06-05-2014 14:38",engagement,view_inbox,Japan,"macbook pro",2
+11832,"06-05-2014 14:39",engagement,home_page,Japan,"macbook pro",2
+11832,"06-05-2014 14:39",engagement,like_message,Japan,"macbook pro",2
+11832,"06-05-2014 14:37",engagement,search_autocomplete,Japan,"macbook pro",2
+11832,"08-05-2014 11:08",engagement,login,Japan,"macbook pro",2
+11832,"08-05-2014 11:09",engagement,home_page,Japan,"macbook pro",2
+11832,"08-05-2014 11:09",engagement,view_inbox,Japan,"macbook pro",2
+11832,"08-05-2014 11:10",engagement,home_page,Japan,"macbook pro",2
+11832,"08-05-2014 11:10",engagement,send_message,Japan,"macbook pro",2
+11832,"08-05-2014 11:11",engagement,view_inbox,Japan,"macbook pro",2
+11832,"08-05-2014 11:11",engagement,like_message,Japan,"macbook pro",2
+11832,"08-05-2014 11:09",engagement,search_autocomplete,Japan,"macbook pro",2
+11832,"08-05-2014 11:09",engagement,search_autocomplete,Japan,"macbook pro",2
+11832,"08-05-2014 11:10",engagement,search_autocomplete,Japan,"macbook pro",2
+11832,"08-05-2014 11:10",engagement,search_autocomplete,Japan,"macbook pro",2
+11832,"08-05-2014 11:11",engagement,search_autocomplete,Japan,"macbook pro",2
+11833,"01-05-2014 16:45",signup_flow,complete_signup,"United Kingdom","nexus 7",1
+11833,"01-05-2014 16:45",engagement,login,"United Kingdom","nexus 7",1
+11833,"01-05-2014 16:46",engagement,send_message,"United Kingdom","nexus 7",1
+11833,"01-05-2014 16:46",engagement,home_page,"United Kingdom","nexus 7",1
+11833,"01-05-2014 16:47",engagement,view_inbox,"United Kingdom","nexus 7",1
+11833,"01-05-2014 16:47",engagement,home_page,"United Kingdom","nexus 7",1
+11833,"01-05-2014 16:48",engagement,like_message,"United Kingdom","nexus 7",1
+11833,"01-05-2014 16:48",engagement,send_message,"United Kingdom","nexus 7",1
+11833,"01-05-2014 16:48",engagement,view_inbox,"United Kingdom","nexus 7",1
+11833,"01-05-2014 16:49",engagement,home_page,"United Kingdom","nexus 7",1
+11833,"01-05-2014 16:49",engagement,like_message,"United Kingdom","nexus 7",1
+11833,"01-05-2014 16:50",engagement,send_message,"United Kingdom","nexus 7",1
+11833,"01-05-2014 16:50",engagement,home_page,"United Kingdom","nexus 7",1
+11833,"01-05-2014 16:51",engagement,like_message,"United Kingdom","nexus 7",1
+11833,"01-05-2014 16:51",engagement,home_page,"United Kingdom","nexus 7",1
+11833,"01-05-2014 16:52",engagement,view_inbox,"United Kingdom","nexus 7",1
+11834,"01-05-2014 18:37",signup_flow,complete_signup,Australia,"asus chromebook",3
+11834,"01-05-2014 18:37",engagement,login,Australia,"asus chromebook",3
+11834,"01-05-2014 18:38",engagement,like_message,Australia,"asus chromebook",3
+11838,"01-05-2014 19:56",signup_flow,complete_signup,"United States","dell inspiron notebook",3
+11838,"01-05-2014 19:56",engagement,login,"United States","dell inspiron notebook",3
+11838,"01-05-2014 19:57",engagement,view_inbox,"United States","dell inspiron notebook",3
+11838,"01-05-2014 19:57",engagement,home_page,"United States","dell inspiron notebook",3
+11839,"01-05-2014 07:24",signup_flow,complete_signup,France,"lenovo thinkpad",3
+11839,"01-05-2014 07:24",engagement,login,France,"lenovo thinkpad",3
+11839,"01-05-2014 07:24",engagement,home_page,France,"lenovo thinkpad",3
+11839,"01-05-2014 07:25",engagement,like_message,France,"lenovo thinkpad",3
+11839,"01-05-2014 07:25",engagement,home_page,France,"lenovo thinkpad",3
+11839,"01-05-2014 07:26",engagement,like_message,France,"lenovo thinkpad",3
+11839,"01-05-2014 07:26",engagement,home_page,France,"lenovo thinkpad",3
+11839,"01-05-2014 07:27",engagement,send_message,France,"lenovo thinkpad",3
+11839,"01-05-2014 07:27",engagement,like_message,France,"lenovo thinkpad",3
+11839,"01-05-2014 07:24",engagement,search_autocomplete,France,"lenovo thinkpad",3
+11839,"01-05-2014 07:25",engagement,search_autocomplete,France,"lenovo thinkpad",3
+11839,"01-05-2014 07:25",engagement,search_autocomplete,France,"lenovo thinkpad",3
+11839,"01-05-2014 07:25",engagement,search_autocomplete,France,"lenovo thinkpad",3
+11839,"01-05-2014 07:26",engagement,search_autocomplete,France,"lenovo thinkpad",3
+11839,"01-05-2014 07:26",engagement,search_autocomplete,France,"lenovo thinkpad",3
+11839,"01-05-2014 07:27",engagement,search_autocomplete,France,"lenovo thinkpad",3
+11839,"01-05-2014 07:27",engagement,search_autocomplete,France,"lenovo thinkpad",3
+11840,"01-05-2014 13:48",signup_flow,complete_signup,Netherlands,"htc one",3
+11840,"01-05-2014 13:48",engagement,login,Netherlands,"htc one",3
+11840,"01-05-2014 13:48",engagement,send_message,Netherlands,"htc one",3
+11841,"02-05-2014 14:48",signup_flow,complete_signup,"United Kingdom","dell inspiron desktop",1
+11841,"02-05-2014 14:48",engagement,login,"United Kingdom","dell inspiron desktop",1
+11841,"02-05-2014 14:49",engagement,home_page,"United Kingdom","dell inspiron desktop",1
+11841,"02-05-2014 14:49",engagement,view_inbox,"United Kingdom","dell inspiron desktop",1
+11841,"02-05-2014 14:50",engagement,home_page,"United Kingdom","dell inspiron desktop",1
+11841,"02-05-2014 14:50",engagement,view_inbox,"United Kingdom","dell inspiron desktop",1
+11841,"02-05-2014 14:51",engagement,send_message,"United Kingdom","dell inspiron desktop",1
+11841,"02-05-2014 14:51",engagement,view_inbox,"United Kingdom","dell inspiron desktop",1
+11841,"02-05-2014 14:52",engagement,home_page,"United Kingdom","dell inspiron desktop",1
+11841,"02-05-2014 14:52",engagement,like_message,"United Kingdom","dell inspiron desktop",1
+11841,"02-05-2014 14:53",engagement,home_page,"United Kingdom","dell inspiron desktop",1
+11841,"03-05-2014 15:56",engagement,login,"United Kingdom","dell inspiron desktop",1
+11841,"03-05-2014 15:57",engagement,like_message,"United Kingdom","dell inspiron desktop",1
+11841,"03-05-2014 15:57",engagement,view_inbox,"United Kingdom","dell inspiron desktop",1
+11841,"03-05-2014 15:58",engagement,like_message,"United Kingdom","dell inspiron desktop",1
+11841,"03-05-2014 15:58",engagement,home_page,"United Kingdom","dell inspiron desktop",1
+11841,"03-05-2014 15:57",engagement,search_autocomplete,"United Kingdom","dell inspiron desktop",1
+11841,"03-05-2014 15:57",engagement,search_autocomplete,"United Kingdom","dell inspiron desktop",1
+11842,"02-05-2014 16:49",signup_flow,complete_signup,Germany,"iphone 5",2
+11842,"02-05-2014 16:49",engagement,login,Germany,"iphone 5",2
+11842,"02-05-2014 16:49",engagement,like_message,Germany,"iphone 5",2
+11842,"02-05-2014 16:50",engagement,view_inbox,Germany,"iphone 5",2
+11842,"02-05-2014 16:50",engagement,like_message,Germany,"iphone 5",2
+11842,"02-05-2014 16:51",engagement,view_inbox,Germany,"iphone 5",2
+11842,"02-05-2014 16:51",engagement,send_message,Germany,"iphone 5",2
+11842,"02-05-2014 16:52",engagement,view_inbox,Germany,"iphone 5",2
+11842,"02-05-2014 16:52",engagement,home_page,Germany,"iphone 5",2
+11842,"02-05-2014 16:49",engagement,search_autocomplete,Germany,"iphone 5",2
+11843,"02-05-2014 08:55",signup_flow,complete_signup,India,"ipad mini",1
+11843,"02-05-2014 08:55",engagement,login,India,"ipad mini",1
+11843,"02-05-2014 08:56",engagement,view_inbox,India,"ipad mini",1
+11843,"02-05-2014 08:56",engagement,home_page,India,"ipad mini",1
+11843,"02-05-2014 08:57",engagement,send_message,India,"ipad mini",1
+11843,"02-05-2014 08:57",engagement,home_page,India,"ipad mini",1
+11843,"02-05-2014 08:58",engagement,like_message,India,"ipad mini",1
+11843,"02-05-2014 08:58",engagement,view_inbox,India,"ipad mini",1
+11843,"02-05-2014 08:56",engagement,search_autocomplete,India,"ipad mini",1
+11844,"02-05-2014 16:39",signup_flow,complete_signup,Mexico,"iphone 5s",3
+11844,"02-05-2014 16:39",engagement,login,Mexico,"iphone 5s",3
+11844,"02-05-2014 16:40",engagement,home_page,Mexico,"iphone 5s",3
+11844,"02-05-2014 16:40",engagement,like_message,Mexico,"iphone 5s",3
+11844,"02-05-2014 16:41",engagement,send_message,Mexico,"iphone 5s",3
+11844,"02-05-2014 16:41",engagement,home_page,Mexico,"iphone 5s",3
+11844,"02-05-2014 16:40",engagement,search_autocomplete,Mexico,"iphone 5s",3
+11849,"02-05-2014 11:09",signup_flow,complete_signup,"United States","ipad mini",3
+11849,"02-05-2014 11:09",engagement,login,"United States","ipad mini",3
+11849,"02-05-2014 11:09",engagement,like_message,"United States","ipad mini",3
+11849,"02-05-2014 11:09",engagement,home_page,"United States","ipad mini",3
+11849,"02-05-2014 11:10",engagement,send_message,"United States","ipad mini",3
+11849,"02-05-2014 11:10",engagement,home_page,"United States","ipad mini",3
+11849,"02-05-2014 11:11",engagement,like_message,"United States","ipad mini",3
+11849,"02-05-2014 11:11",engagement,home_page,"United States","ipad mini",3
+11849,"02-05-2014 11:12",engagement,view_inbox,"United States","ipad mini",3
+11849,"02-05-2014 11:12",engagement,home_page,"United States","ipad mini",3
+11849,"02-05-2014 11:12",engagement,like_message,"United States","ipad mini",3
+11849,"02-05-2014 11:13",engagement,home_page,"United States","ipad mini",3
+11849,"02-05-2014 11:09",engagement,search_autocomplete,"United States","ipad mini",3
+11849,"02-05-2014 11:10",engagement,search_autocomplete,"United States","ipad mini",3
+11850,"02-05-2014 03:51",signup_flow,complete_signup,"United States","dell inspiron notebook",2
+11850,"02-05-2014 03:51",engagement,login,"United States","dell inspiron notebook",2
+11850,"02-05-2014 03:51",engagement,home_page,"United States","dell inspiron notebook",2
+11850,"02-05-2014 03:52",engagement,like_message,"United States","dell inspiron notebook",2
+11850,"02-05-2014 03:52",engagement,home_page,"United States","dell inspiron notebook",2
+11850,"02-05-2014 03:53",engagement,view_inbox,"United States","dell inspiron notebook",2
+11850,"24-05-2014 13:16",engagement,login,"United States","dell inspiron notebook",2
+11850,"24-05-2014 13:17",engagement,view_inbox,"United States","dell inspiron notebook",2
+11850,"24-05-2014 13:17",engagement,like_message,"United States","dell inspiron notebook",2
+11850,"24-05-2014 13:18",engagement,home_page,"United States","dell inspiron notebook",2
+11850,"24-05-2014 13:18",engagement,like_message,"United States","dell inspiron notebook",2
+11850,"24-05-2014 13:19",engagement,home_page,"United States","dell inspiron notebook",2
+11850,"24-05-2014 13:19",engagement,send_message,"United States","dell inspiron notebook",2
+11852,"02-05-2014 18:17",signup_flow,complete_signup,"Saudi Arabia","macbook pro",2
+11852,"02-05-2014 18:17",engagement,login,"Saudi Arabia","macbook pro",2
+11852,"02-05-2014 18:17",engagement,home_page,"Saudi Arabia","macbook pro",2
+11852,"02-05-2014 18:18",engagement,view_inbox,"Saudi Arabia","macbook pro",2
+11854,"02-05-2014 07:45",signup_flow,complete_signup,"United States","macbook pro",3
+11854,"02-05-2014 07:45",engagement,login,"United States","macbook pro",3
+11854,"02-05-2014 07:46",engagement,home_page,"United States","macbook pro",3
+11858,"02-05-2014 08:02",signup_flow,complete_signup,"United States","macbook pro",1
+11858,"02-05-2014 08:02",engagement,login,"United States","macbook pro",1
+11858,"02-05-2014 08:02",engagement,like_message,"United States","macbook pro",1
+11858,"02-05-2014 08:03",engagement,home_page,"United States","macbook pro",1
+11858,"02-05-2014 08:03",engagement,view_inbox,"United States","macbook pro",1
+11858,"02-05-2014 08:03",engagement,home_page,"United States","macbook pro",1
+11858,"02-05-2014 08:04",engagement,like_message,"United States","macbook pro",1
+11858,"02-05-2014 08:05",engagement,home_page,"United States","macbook pro",1
+11858,"02-05-2014 08:05",engagement,like_message,"United States","macbook pro",1
+11858,"02-05-2014 08:06",engagement,view_inbox,"United States","macbook pro",1
+11858,"02-05-2014 08:06",engagement,send_message,"United States","macbook pro",1
+11858,"02-05-2014 08:07",engagement,like_message,"United States","macbook pro",1
+11858,"02-05-2014 08:07",engagement,home_page,"United States","macbook pro",1
+11859,"02-05-2014 03:57",signup_flow,complete_signup,Egypt,"amazon fire phone",1
+11859,"02-05-2014 03:57",engagement,login,Egypt,"amazon fire phone",1
+11859,"02-05-2014 03:58",engagement,home_page,Egypt,"amazon fire phone",1
+11859,"02-05-2014 03:58",engagement,like_message,Egypt,"amazon fire phone",1
+11859,"02-05-2014 03:59",engagement,home_page,Egypt,"amazon fire phone",1
+11859,"02-05-2014 03:59",engagement,like_message,Egypt,"amazon fire phone",1
+11859,"02-05-2014 04:00",engagement,view_inbox,Egypt,"amazon fire phone",1
+11859,"02-05-2014 04:01",engagement,home_page,Egypt,"amazon fire phone",1
+11859,"02-05-2014 04:01",engagement,like_message,Egypt,"amazon fire phone",1
+11859,"02-05-2014 04:02",engagement,send_message,Egypt,"amazon fire phone",1
+11859,"02-05-2014 04:02",engagement,home_page,Egypt,"amazon fire phone",1
+11859,"02-05-2014 04:02",engagement,like_message,Egypt,"amazon fire phone",1
+11863,"02-05-2014 15:56",signup_flow,complete_signup,Brazil,"iphone 5",3
+11863,"02-05-2014 15:56",engagement,login,Brazil,"iphone 5",3
+11863,"02-05-2014 15:57",engagement,home_page,Brazil,"iphone 5",3
+11864,"02-05-2014 04:47",signup_flow,complete_signup,Brazil,"acer aspire desktop",3
+11864,"02-05-2014 04:47",engagement,login,Brazil,"acer aspire desktop",3
+11864,"02-05-2014 04:48",engagement,home_page,Brazil,"acer aspire desktop",3
+11865,"02-05-2014 22:48",signup_flow,complete_signup,Japan,"asus chromebook",2
+11865,"02-05-2014 22:48",engagement,login,Japan,"asus chromebook",2
+11865,"02-05-2014 22:48",engagement,like_message,Japan,"asus chromebook",2
+11865,"02-05-2014 22:48",engagement,home_page,Japan,"asus chromebook",2
+11865,"02-05-2014 22:49",engagement,view_inbox,Japan,"asus chromebook",2
+11865,"02-05-2014 22:49",engagement,like_message,Japan,"asus chromebook",2
+11865,"02-05-2014 22:50",engagement,home_page,Japan,"asus chromebook",2
+11868,"02-05-2014 15:18",signup_flow,complete_signup,Nigeria,"nokia lumia 635",2
+11868,"02-05-2014 15:18",engagement,login,Nigeria,"nokia lumia 635",2
+11868,"02-05-2014 15:18",engagement,home_page,Nigeria,"nokia lumia 635",2
+11868,"02-05-2014 15:19",engagement,send_message,Nigeria,"nokia lumia 635",2
+11868,"02-05-2014 15:19",engagement,like_message,Nigeria,"nokia lumia 635",2
+11868,"02-05-2014 15:20",engagement,home_page,Nigeria,"nokia lumia 635",2
+11868,"02-05-2014 15:20",engagement,view_inbox,Nigeria,"nokia lumia 635",2
+11868,"02-05-2014 15:21",engagement,home_page,Nigeria,"nokia lumia 635",2
+11868,"02-05-2014 15:21",engagement,like_message,Nigeria,"nokia lumia 635",2
+11868,"02-05-2014 15:22",engagement,view_inbox,Nigeria,"nokia lumia 635",2
+11868,"02-05-2014 15:22",engagement,home_page,Nigeria,"nokia lumia 635",2
+11868,"02-05-2014 15:23",engagement,send_message,Nigeria,"nokia lumia 635",2
+11868,"02-05-2014 15:23",engagement,like_message,Nigeria,"nokia lumia 635",2
+11868,"02-05-2014 15:24",engagement,home_page,Nigeria,"nokia lumia 635",2
+11868,"02-05-2014 15:24",engagement,send_message,Nigeria,"nokia lumia 635",2
+11868,"02-05-2014 15:25",engagement,home_page,Nigeria,"nokia lumia 635",2
+11872,"02-05-2014 12:42",signup_flow,complete_signup,"United States","iphone 5s",3
+11872,"02-05-2014 12:42",engagement,login,"United States","iphone 5s",3
+11872,"02-05-2014 12:42",engagement,view_inbox,"United States","iphone 5s",3
+11872,"02-05-2014 12:43",engagement,home_page,"United States","iphone 5s",3
+11872,"02-05-2014 12:43",engagement,view_inbox,"United States","iphone 5s",3
+11872,"02-05-2014 12:43",engagement,like_message,"United States","iphone 5s",3
+11874,"02-05-2014 11:49",signup_flow,complete_signup,"United States","macbook pro",2
+11874,"02-05-2014 11:49",engagement,login,"United States","macbook pro",2
+11874,"02-05-2014 11:49",engagement,view_inbox,"United States","macbook pro",2
+11874,"02-05-2014 11:50",engagement,home_page,"United States","macbook pro",2
+11874,"02-05-2014 11:50",engagement,like_message,"United States","macbook pro",2
+11874,"02-05-2014 11:50",engagement,home_page,"United States","macbook pro",2
+11875,"02-05-2014 14:12",signup_flow,complete_signup,Pakistan,"nexus 5",2
+11875,"02-05-2014 14:12",engagement,login,Pakistan,"nexus 5",2
+11875,"02-05-2014 14:12",engagement,view_inbox,Pakistan,"nexus 5",2
+11875,"02-05-2014 14:13",engagement,home_page,Pakistan,"nexus 5",2
+11875,"02-05-2014 14:13",engagement,like_message,Pakistan,"nexus 5",2
+11875,"02-05-2014 14:14",engagement,send_message,Pakistan,"nexus 5",2
+11875,"02-05-2014 14:14",engagement,home_page,Pakistan,"nexus 5",2
+11875,"02-05-2014 14:15",engagement,like_message,Pakistan,"nexus 5",2
+11876,"02-05-2014 12:44",signup_flow,complete_signup,Germany,"macbook pro",2
+11876,"02-05-2014 12:44",engagement,login,Germany,"macbook pro",2
+11876,"02-05-2014 12:44",engagement,like_message,Germany,"macbook pro",2
+11876,"02-05-2014 12:45",engagement,send_message,Germany,"macbook pro",2
+11876,"02-05-2014 12:45",engagement,like_message,Germany,"macbook pro",2
+11876,"02-05-2014 12:46",engagement,home_page,Germany,"macbook pro",2
+11876,"02-05-2014 12:46",engagement,like_message,Germany,"macbook pro",2
+11876,"02-05-2014 12:47",engagement,view_inbox,Germany,"macbook pro",2
+11877,"02-05-2014 09:26",signup_flow,complete_signup,Portugal,"iphone 5",1
+11877,"02-05-2014 09:26",engagement,login,Portugal,"iphone 5",1
+11877,"02-05-2014 09:26",engagement,view_inbox,Portugal,"iphone 5",1
+11877,"02-05-2014 09:27",engagement,like_message,Portugal,"iphone 5",1
+11877,"02-05-2014 09:27",engagement,home_page,Portugal,"iphone 5",1
+11877,"02-05-2014 09:28",engagement,send_message,Portugal,"iphone 5",1
+11877,"02-05-2014 09:28",engagement,like_message,Portugal,"iphone 5",1
+11879,"02-05-2014 17:00",signup_flow,complete_signup,Poland,"nokia lumia 635",2
+11879,"02-05-2014 17:00",engagement,login,Poland,"nokia lumia 635",2
+11879,"02-05-2014 17:01",engagement,view_inbox,Poland,"nokia lumia 635",2
+11879,"02-05-2014 17:01",engagement,home_page,Poland,"nokia lumia 635",2
+11879,"02-05-2014 17:02",engagement,view_inbox,Poland,"nokia lumia 635",2
+11879,"02-05-2014 17:03",engagement,like_message,Poland,"nokia lumia 635",2
+11879,"02-05-2014 17:03",engagement,home_page,Poland,"nokia lumia 635",2
+11879,"02-05-2014 17:04",engagement,like_message,Poland,"nokia lumia 635",2
+11879,"02-05-2014 17:04",engagement,home_page,Poland,"nokia lumia 635",2
+11879,"02-05-2014 17:05",engagement,send_message,Poland,"nokia lumia 635",2
+11881,"02-05-2014 13:20",signup_flow,complete_signup,Thailand,"macbook air",2
+11881,"02-05-2014 13:20",engagement,login,Thailand,"macbook air",2
+11881,"02-05-2014 13:20",engagement,home_page,Thailand,"macbook air",2
+11881,"02-05-2014 13:20",engagement,view_inbox,Thailand,"macbook air",2
+11881,"02-05-2014 13:21",engagement,home_page,Thailand,"macbook air",2
+11881,"02-05-2014 13:21",engagement,like_message,Thailand,"macbook air",2
+11881,"02-05-2014 13:22",engagement,home_page,Thailand,"macbook air",2
+11881,"02-05-2014 13:20",engagement,search_run,Thailand,"macbook air",2
+11881,"02-05-2014 13:21",engagement,search_run,Thailand,"macbook air",2
+11881,"02-05-2014 13:21",engagement,search_run,Thailand,"macbook air",2
+11881,"02-05-2014 13:20",engagement,search_autocomplete,Thailand,"macbook air",2
+11882,"02-05-2014 14:11",signup_flow,complete_signup,"United States","nexus 7",2
+11882,"02-05-2014 14:11",engagement,login,"United States","nexus 7",2
+11882,"02-05-2014 14:11",engagement,send_message,"United States","nexus 7",2
+11882,"02-05-2014 14:12",engagement,home_page,"United States","nexus 7",2
+11882,"02-05-2014 14:12",engagement,send_message,"United States","nexus 7",2
+11882,"02-05-2014 14:13",engagement,home_page,"United States","nexus 7",2
+11882,"02-05-2014 14:13",engagement,view_inbox,"United States","nexus 7",2
+11882,"02-05-2014 14:14",engagement,home_page,"United States","nexus 7",2
+11882,"02-05-2014 14:11",engagement,search_run,"United States","nexus 7",2
+11882,"02-05-2014 14:12",engagement,search_run,"United States","nexus 7",2
+11882,"02-05-2014 14:12",engagement,search_run,"United States","nexus 7",2
+11884,"02-05-2014 13:28",signup_flow,complete_signup,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:28",engagement,login,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:29",engagement,home_page,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:29",engagement,like_message,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:30",engagement,home_page,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:30",engagement,like_message,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:31",engagement,home_page,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:31",engagement,send_message,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:32",engagement,view_inbox,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:32",engagement,home_page,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:33",engagement,view_inbox,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:33",engagement,like_message,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:34",engagement,send_message,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:34",engagement,like_message,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:35",engagement,home_page,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:35",engagement,send_message,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:36",engagement,home_page,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:36",engagement,send_message,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:37",engagement,home_page,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:37",engagement,view_inbox,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:38",engagement,like_message,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:38",engagement,home_page,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:39",engagement,view_inbox,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:39",engagement,like_message,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:39",engagement,home_page,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:40",engagement,like_message,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:29",engagement,search_run,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:29",engagement,search_run,France,"lenovo thinkpad",1
+11884,"02-05-2014 13:30",engagement,search_run,France,"lenovo thinkpad",1
+11887,"02-05-2014 11:23",signup_flow,complete_signup,Korea,"samsumg galaxy tablet",3
+11887,"02-05-2014 11:23",engagement,login,Korea,"samsumg galaxy tablet",3
+11887,"02-05-2014 11:23",engagement,home_page,Korea,"samsumg galaxy tablet",3
+11887,"02-05-2014 11:24",engagement,view_inbox,Korea,"samsumg galaxy tablet",3
+11887,"02-05-2014 11:24",engagement,home_page,Korea,"samsumg galaxy tablet",3
+11888,"02-05-2014 18:53",signup_flow,complete_signup,Brazil,"htc one",3
+11888,"02-05-2014 18:53",engagement,login,Brazil,"htc one",3
+11888,"02-05-2014 18:53",engagement,home_page,Brazil,"htc one",3
+11889,"02-05-2014 09:19",signup_flow,complete_signup,Brazil,"lenovo thinkpad",2
+11889,"02-05-2014 09:19",engagement,login,Brazil,"lenovo thinkpad",2
+11889,"02-05-2014 09:20",engagement,home_page,Brazil,"lenovo thinkpad",2
+11889,"02-05-2014 09:20",engagement,like_message,Brazil,"lenovo thinkpad",2
+11889,"02-05-2014 09:21",engagement,home_page,Brazil,"lenovo thinkpad",2
+11893,"02-05-2014 10:20",signup_flow,complete_signup,"United States","ipad mini",3
+11893,"02-05-2014 10:20",engagement,login,"United States","ipad mini",3
+11893,"02-05-2014 10:21",engagement,home_page,"United States","ipad mini",3
+11893,"02-05-2014 10:21",engagement,search_autocomplete,"United States","ipad mini",3
+11893,"02-05-2014 10:21",engagement,search_autocomplete,"United States","ipad mini",3
+11894,"02-05-2014 06:08",signup_flow,complete_signup,Brazil,"acer aspire notebook",1
+11894,"02-05-2014 06:08",engagement,login,Brazil,"acer aspire notebook",1
+11894,"02-05-2014 06:08",engagement,like_message,Brazil,"acer aspire notebook",1
+11894,"02-05-2014 06:09",engagement,view_inbox,Brazil,"acer aspire notebook",1
+11894,"02-05-2014 06:09",engagement,home_page,Brazil,"acer aspire notebook",1
+11894,"02-05-2014 06:10",engagement,send_message,Brazil,"acer aspire notebook",1
+11894,"02-05-2014 06:10",engagement,view_inbox,Brazil,"acer aspire notebook",1
+11894,"02-05-2014 06:11",engagement,home_page,Brazil,"acer aspire notebook",1
+11894,"02-05-2014 06:11",engagement,view_inbox,Brazil,"acer aspire notebook",1
+11894,"02-05-2014 06:12",engagement,send_message,Brazil,"acer aspire notebook",1
+11894,"02-05-2014 06:12",engagement,view_inbox,Brazil,"acer aspire notebook",1
+11894,"02-05-2014 06:13",engagement,like_message,Brazil,"acer aspire notebook",1
+11894,"02-05-2014 06:13",engagement,home_page,Brazil,"acer aspire notebook",1
+11894,"02-05-2014 06:14",engagement,send_message,Brazil,"acer aspire notebook",1
+11894,"02-05-2014 06:08",engagement,search_autocomplete,Brazil,"acer aspire notebook",1
+11894,"04-05-2014 16:42",engagement,login,Brazil,"ipad mini",1
+11894,"04-05-2014 16:42",engagement,home_page,Brazil,"ipad mini",1
+11894,"04-05-2014 16:43",engagement,view_inbox,Brazil,"ipad mini",1
+11894,"04-05-2014 16:43",engagement,home_page,Brazil,"ipad mini",1
+11894,"04-05-2014 16:44",engagement,view_inbox,Brazil,"ipad mini",1
+11894,"04-05-2014 16:44",engagement,home_page,Brazil,"ipad mini",1
+11894,"04-05-2014 16:45",engagement,view_inbox,Brazil,"ipad mini",1
